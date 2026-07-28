@@ -32,7 +32,7 @@ export default function Credenciales() {
 
       {/* Imagen */}
       <img
-        src="C:\Users\leonm\mi-web\public\sql.png"
+        src="/sql.png"
         alt="SQL Básico"
         className="
           w-full
