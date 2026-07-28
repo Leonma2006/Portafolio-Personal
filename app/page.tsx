@@ -135,7 +135,7 @@ via-zinc-950
       {/* Hero */}
       <section className="relative z-20 max-w-6xl mx-auto px-8 py-24">
         <h1 className="text-6xl font-sreda">
-          LEONARDO MORENO ALBARRAN
+          LEONMA2006
         </h1>
 
         <div className="flex gap-5 mt-6 text-2xl">
@@ -212,7 +212,7 @@ via-zinc-950
 
         <p className="mt-6 text-xl text-zinc-400 max-w-2xl">
           Soy un estudiante de Ingenieria en Software. Me apasiona demasiado la tecnologia pero sobre
-          todo el reto logico de codigicar, aprendiendo desarrollo web, de software (c++, java) 
+          todo el reto logico de codificar, aprendiendo desarrollo web, de software (c++, java) 
           y uso de base de datos en ambiente logistico empresarial.
           Actualmente la pagina esta en desarrollo mientras voy aprendiendo nuevas tecnologias y herramientas para mejorar mis habilidades.
         </p>
