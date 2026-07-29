@@ -745,6 +745,151 @@ className="max-w-10xl mx-auto px-8 py-20">
   </div>
 </section>
 
+<footer
+  className="
+    mt-32
+
+    border-t
+    border-white/10
+
+    bg-white/5
+    backdrop-blur-xl
+
+    px-8
+    py-10
+  "
+>
+  <div className="max-w-6xl mx-auto">
+
+    <div className="grid md:grid-cols-3 gap-8">
+
+      {/* Información */}
+      <div>
+        <h3 className="text-xl font-bold text-cyan-300">
+          Leonardo Moreno Albarrán
+        </h3>
+
+        <p className="text-zinc-400 mt-2">
+          Estudiante de Ingeniería en Sistemas.
+        </p>
+
+        <p className="text-zinc-500 text-sm mt-2">
+          Construyendo proyectos, aprendiendo tecnologías
+          y documentando mi progreso.
+        </p>
+      </div>
+
+      {/* Contacto */}
+      <div>
+        <h3 className="text-lg font-semibold text-white mb-3">
+          Contacto
+        </h3>
+
+        <div className="space-y-2 text-zinc-400">
+
+          <p>
+            📧 tucorreo@ejemplo.com
+          </p>
+
+          <p>
+            📱 +52 000 000 0000
+          </p>
+
+          <p>
+            📍 México
+          </p>
+
+        </div>
+      </div>
+
+      {/* Redes */}
+      <div>
+        <h3 className="text-lg font-semibold text-white mb-3">
+          Redes
+        </h3>
+
+        <div className="flex gap-4 text-2xl">
+
+          <a
+            href="https://github.com/tu_usuario"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="
+              text-zinc-400
+              hover:text-white
+              hover:scale-110
+              transition-all
+            "
+          >
+            <FaGithub />
+          </a>
+
+          <a
+            href="https://linkedin.com/in/tu_usuario"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="
+              text-zinc-400
+              hover:text-cyan-400
+              hover:scale-110
+              transition-all
+            "
+          >
+            <FaLinkedin />
+          </a>
+
+          <a
+            href="https://instagram.com/tu_usuario"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="
+              text-zinc-400
+              hover:text-pink-400
+              hover:scale-110
+              transition-all
+            "
+          >
+            <FaInstagram />
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+    {/* Línea inferior */}
+    <div
+      className="
+        mt-8
+        pt-6
+
+        border-t
+        border-white/10
+
+        flex
+        flex-col
+        md:flex-row
+
+        justify-between
+        items-center
+
+        gap-4
+      "
+    >
+      <p className="text-zinc-500 text-sm">
+        © 2026 Leonardo Moreno Albarrán
+      </p>
+
+      <p className="text-zinc-500 text-sm">
+        Actualmente aprendiendo:
+        Next.js • React • SQL • C#
+      </p>
+    </div>
+
+  </div>
+</footer>
+
+
     </main>
 );
 }
