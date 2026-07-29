@@ -745,7 +745,10 @@ className="max-w-10xl mx-auto px-8 py-20">
   </div>
 </section>
 
+
+
 <footer
+id="contacto"
   className="
     mt-32
 
@@ -788,16 +791,16 @@ className="max-w-10xl mx-auto px-8 py-20">
         <div className="space-y-2 text-zinc-400">
 
           <p>
-            📧 tucorreo@ejemplo.com
+            📧 leonma2006@gmail.com
           </p>
 
           <p>
-            📱 +52 000 000 0000
+            📱 +52 229 173 6192
           </p>
 
           <p>
             📍 México
-          </p>
+          </p>  
 
         </div>
       </div>
@@ -811,7 +814,7 @@ className="max-w-10xl mx-auto px-8 py-20">
         <div className="flex gap-4 text-2xl">
 
           <a
-            href="https://github.com/tu_usuario"
+            href="https://github.com/Leonma2006"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -839,7 +842,7 @@ className="max-w-10xl mx-auto px-8 py-20">
           </a>
 
           <a
-            href="https://instagram.com/tu_usuario"
+            href="https://instagram.com/leonma2006"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -877,13 +880,9 @@ className="max-w-10xl mx-auto px-8 py-20">
       "
     >
       <p className="text-zinc-500 text-sm">
-        © 2026 Leonardo Moreno Albarrán
+        © 2026 Leonardo M.A
       </p>
 
-      <p className="text-zinc-500 text-sm">
-        Actualmente aprendiendo:
-        Next.js • React • SQL • C#
-      </p>
     </div>
 
   </div>
