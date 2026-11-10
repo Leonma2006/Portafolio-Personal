@@ -215,6 +215,8 @@ via-zinc-950
           todo el reto logico de codificar, aprendiendo desarrollo web, de software (c++, java) 
           y uso de base de datos en ambiente logistico empresarial.
           Actualmente la pagina esta en desarrollo mientras voy aprendiendo nuevas tecnologias y herramientas para mejorar mis habilidades.
+          PROYECTO REALIZADO POR MATERIA DE REDES DE COMPUTADORAS.
+          MAESTRA ANGELICA PEREZ HERNANDEZ.
         </p>
         <div className="mt-8 "> 
         
